@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RecordType xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Mental_Health</fullName>
+    <active>true</active>
+    <description>Creating awareness in mental health one step at a time.</description>
+    <label>Mental Health</label>
+</RecordType>
